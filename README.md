@@ -8,12 +8,12 @@ OpenCVを使用したテンプレートマッチ処理の動作確認モジュ�
 
 ### 以下のポケモンのイラスト画像から、、、
   
-![検索する範囲](./dev/data/img/pokemons.png)  
+![検索する範囲](./.development/data/img/pokemons.png)  
 
 ### かわいいライチュウを、、、
 
-![検索する対象](./dev/data/img/raichu.png)  
+![検索する対象](./.development/data/img/raichu.png)  
 
 ### 見つけます♪
 
-![結果](./dev/data/img/result.png)  
+![結果](./.development/data/img/result.png)  
